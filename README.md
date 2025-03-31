@@ -164,5 +164,5 @@ PaliGemma-2-Mix/
 
 ## Recursos Adicionales
 
-- [Documentación Oficial de PaliGemma]([https://github.com/google-deepmind/paligemma](https://developers.googleblog.com/en/introducing-paligemma-2-mix/))
+- [Documentación Oficial de PaliGemma]([https://github.com/google-deepmind/paligemma](https://developers.googleblog.com/en/introducing-paligemma-2-mix/)
 - [huggingface](https://huggingface.co/google/paligemma2-3b-mix-224)
