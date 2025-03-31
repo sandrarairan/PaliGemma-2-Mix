@@ -1,7 +1,5 @@
 # PaliGemma 2 Mix - Mejores Prácticas
 
-![PaliGemma 2 Mix Banner](https://raw.githubusercontent.com/google-deepmind/paligemma/main/paligemma_model_card/paligemma.png)
-
 ## Acerca de PaliGemma 2 Mix
 
 PaliGemma 2 Mix es un modelo multimodal avanzado desarrollado por Google DeepMind que expande las capacidades de su predecesor. Este modelo integra procesamiento de imágenes y texto con capacidades mejoradas para tareas como:
@@ -149,21 +147,6 @@ metrics = evaluate_model(
 )
 ```
 
-### 6. Consideraciones Éticas
-
-- **Sesgos**: Monitoree y mitigue sesgos en las respuestas del modelo.
-- **Privacidad**: No procese imágenes con información sensible sin consentimiento.
-- **Contenido inapropiado**: Implemente filtros para detectar solicitudes problemáticas.
-- **Transparencia**: Informe a los usuarios cuando están interactuando con respuestas generadas por IA.
-
-## Casos de Uso Recomendados
-
-1. **Asistencia médica**: Análisis preliminar de imágenes médicas (siempre con supervisión profesional).
-2. **Educación**: Explicación de diagramas científicos y contenido visual.
-3. **E-commerce**: Descripción automática y etiquetado de productos.
-4. **Accesibilidad**: Descripciones detalladas para personas con discapacidad visual.
-5. **Análisis de documentos**: Extracción de información de documentos escaneados.
-6. **Edición multimedia**: Asistencia en la edición y selección de contenido visual.
 
 ## Estructura del Repositorio
 
@@ -177,30 +160,9 @@ PaliGemma-2-Mix/
 └── docs/                   # Documentación adicional
 ```
 
-## Contribución
 
-¡Las contribuciones son bienvenidas! Por favor, consulta [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles.
-
-## Licencia
-
-Este proyecto está bajo la licencia Apache 2.0 - consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-## Citar
-
-Si utiliza PaliGemma 2 Mix en su investigación, por favor cite:
-
-```
-@article{paligemma2mix2025,
-  title={PaliGemma 2 Mix: Advanced Visual-Language Understanding},
-  author={DeepMind Team},
-  journal={arXiv preprint arXiv:2412.xxxx},
-  year={2025}
-}
-```
 
 ## Recursos Adicionales
 
-- [Documentación Oficial de PaliGemma](https://github.com/google-deepmind/paligemma)
-- [Comunidad Discord](https://discord.gg/paligemma)
-- [Blog de Google DeepMind](https://deepmind.google/blog/)
-- [Tutorial en Video](https://www.youtube.com/watch?v=example)
+- [Documentación Oficial de PaliGemma]([https://github.com/google-deepmind/paligemma](https://developers.googleblog.com/en/introducing-paligemma-2-mix/))
+- [huggingface](https://huggingface.co/google/paligemma2-3b-mix-224)
